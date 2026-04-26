@@ -19,8 +19,8 @@ $use_auth = true;
 // Users: array('Username' => 'Password', 'Username2' => 'Password2', ...)
 // Generate secure password hash - https://tinyfilemanager.github.io/docs/pwd.html
 $auth_users = array(
-    'anesui' => '$2y$10$KtHxOTMhiv5sPN764Poogu76tRZC/TNsWY4436.KESnbKdD/Chjha'
-    'anesui' => '$2y$10$KtHxOTMhiv5sPN764Poogu76tRZC/TNsWY4436.KESnbKdD/Chjha'
+    'anesui' => '$2y$10$KtHxOTMhiv5sPN764Poogu76tRZC/TNsWY4436.KESnbKdD/Chjha', //admin@123
+    'anesui' => '$2y$10$KtHxOTMhiv5sPN764Poogu76tRZC/TNsWY4436.KESnbKdD/Chjha' //12345
 );
 
 // Readonly users
@@ -379,8 +379,7 @@ if ($use_auth) {
                                 </form>
                             </div>
                         </div>
-                        <div class="footer text-center">
-                            &mdash;&mdash; &copy;
+                        <div class="footer text-center">&mdash;&mdash; &copy;
                             <a href="https://tinyfilemanager.github.io/" target="_blank" class="text-decoration-none text-muted" data-version="<?php echo VERSION; ?>">CCP Programmers</a> &mdash;&mdash;
                         </div>
                     </div>
@@ -589,7 +588,7 @@ if ((isset($_SESSION[FM_SESSION_ID]['logged'], $auth_users[$_SESSION[FM_SESSION_
         $port = parse_url($url, PHP_URL_PORT);
         $knownPorts = [22, 23, 25, 3306];
 
-        if (preg_match("/^localhost$|^127(?:\.[0-9]+){0,2}\.[0-9]+$|^(?:0*\:)*?:?0*1$/i", $domain) || in_array($port, $knownPorts)) {
+        if (preg_match("/^localhost$|^127(?:\.[0-9]+){0,2}\.[0-9]+$|^(?:0*\:)*?:?0*1$/i", $domain) ||in_array($port, $knownPorts)) {
             $err = array("message" => "URL is not allowed");
             event_callback(array("fail" => $err));
             exit();
@@ -1013,7 +1012,7 @@ if (!empty($_FILES) && !FM_READONLY) {
                 }
 
             } else if (move_uploaded_file($tmp_name, $fullPath)) {
-                // Be sure that the file has been uploaded
+                // Be sure that the file hasbeen uploaded
                 if ( file_exists($fullPath) ) {
                     $response = array (
                         'status'    => 'success',
@@ -1296,7 +1295,7 @@ if (is_array($objects) && fm_is_exclude_items($current_path)) {
         $new_path = $path . '/' . $file;
         if (@is_file($new_path) && fm_is_exclude_items($file)) {
             $files[] = $file;
-        } elseif (@is_dir($new_path) && $file != '.' && $file != '..' && fm_is_exclude_items($file)) {
+        } elseif (@is_dir($new_path) && $file!= '.' &&$file!= '..' && fm_is_exclude_items($file)) {
             $folders[] = $file;
         }
     }
@@ -1468,9 +1467,8 @@ if (isset($_GET['copy']) && !isset($_GET['finish']) && !FM_READONLY) {
         <p class="break-word">
             <strong>Source path:</strong> <?php echo fm_enc(fm_convert_win(FM_ROOT_PATH . '/' . $copy)) ?><br>
             <strong>Destination folder:</strong> <?php echo fm_enc(fm_convert_win(FM_ROOT_PATH . '/' . FM_PATH)) ?>
-        </p>
-        <p>
-            <b><a href="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode($copy) ?>&amp;finish=1"><i class="fa fa-check-circle"></i> Copy</a></b> &nbsp;
+        </p><p>
+            <b><ahref="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode($copy) ?>&amp;finish=1"><i class="fa fa-check-circle"></i> Copy</a></b> &nbsp;
             <b><a href="?p=<?php echo urlencode(FM_PATH) ?>&amp;copy=<?php echo urlencode($copy) ?>&amp;finish=1&amp;move=1"><i class="fa fa-check-circle"></i> Move</a></b> &nbsp;
             <b><a href="?p=<?php echo urlencode(FM_PATH) ?>" class="text-danger"><i class="fa fa-times-circle"></i> Cancel</a></b>
         </p>
@@ -1613,8 +1611,7 @@ if (isset($_GET['help'])) {
                 <div class="row js-new-pwd hidden mt-2">
                     <div class="col-12">
                         <form class="form-inline" onsubmit="return new_password_hash(this)" method="POST" action="">
-                            <input type="hidden" name="type" value="pwdhash" aria-label="hidden" aria-hidden="true">
-                            <div class="form-group mb-2">
+                            <input type="hidden" name="type" value="pwdhash" aria-label="hidden" aria-hidden="true"><div class="form-group mb-2">
                                 <label for="staticEmail2"><?php echo lng('Generate new password hash') ?></label>
                             </div>
                             <div class="form-group mx-sm-3 mb-2">
@@ -1901,8 +1898,7 @@ if (isset($_GET['edit']) && !FM_READONLY) {
                 <a title="<?php echo lng('BackUp') ?>" class="btn btn-sm btn-outline-primary" href="javascript:void(0);" onclick="backup('<?php echo urlencode(trim(FM_PATH)) ?>','<?php echo urlencode($file) ?>')"><i class="fa fa-database"></i> <?php echo lng('BackUp') ?></a>
                 <?php if ($is_text) { ?>
                     <?php if ($isNormalEditor) { ?>
-                        <a title="Advanced" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>&amp;env=ace"><i class="fa fa-pencil-square-o"></i> <?php echo lng('AdvancedEditor') ?></a>
-                        <button type="button" class="btn btn-sm btn-success" name="Save" data-url="<?php echo fm_enc($file_url) ?>" onclick="edit_save(this,'nrl')"><i class="fa fa-floppy-o"></i> Save
+                        <a title="Advanced" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>&amp;env=ace"><i class="fa fa-pencil-square-o"></i> <?php echo lng('AdvancedEditor') ?></a><button type="button" class="btn btn-smbtn-success" name="Save"data-url="<?php echo fm_enc($file_url) ?>" onclick="edit_save(this,'nrl')"><i class="fa fa-floppy-o"></i> Save
                         </button>
                     <?php } else { ?>
                         <a title="Plain Editor" class="btn btn-sm btn-outline-primary" href="?p=<?php echo urlencode(trim(FM_PATH)) ?>&amp;edit=<?php echo urlencode($file) ?>"><i class="fa fa-text-height"></i> <?php echo lng('NormalEditor') ?></a>
@@ -2051,12 +2047,10 @@ $tableTheme = (FM_THEME == "dark") ? "text-white bg-dark table-dark" : "bg-white
                         <td class="border-0"></td>
                         <td class="border-0"></td>
                     <?php } ?>
-                </tr>
-                <?php
+                </tr><?php
             }
             $ii = 3399;
-            foreach ($folders as $f) {
-                $is_link = is_link($path . '/' . $f);
+            foreach ($folders as $f) {$is_link = is_link($path . '/' . $f);
                 $img = $is_link ? 'icon-link_folder' : 'fa fa-folder-o';
                 $modif_raw = filemtime($path . '/' . $f);
                 $modif = date(FM_DATETIME_FORMAT, $modif_raw);
@@ -2361,8 +2355,7 @@ function fm_rename($old, $new)
 
 /**
  * Copy file or folder (recursively).
- * @param string $path
- * @param string $dest
+ * @param string $path* @param string $dest
  * @param bool $upd Update files
  * @param bool $force Create folder with same names instead file
  * @return bool
@@ -2679,8 +2672,7 @@ function fm_get_directorysize($directory) {
 /**
  * Get info about zip archive
  * @param string $path
- * @return array|bool
- */
+ * @return array|bool*/
 function fm_get_zif_info($path, $ext) {
     if ($ext == 'zip' && function_exists('zip_open')) {
         $arch = @zip_open($path);
@@ -3287,8 +3279,7 @@ class FM_Zipper
             if ($this->addFileOrDir($files)) {
                 $this->zip->close();
                 return true;
-            }
-            return false;
+            }return false;
         }
     }
 
@@ -3996,7 +3987,7 @@ $isStickyNavBar = $sticky_navbar ? 'navbar-fixed' : 'navbar-normal';
         while(match=re.exec(html)){add(html.slice(cursor,match.index))(match[1],!0);cursor=match.index+match[0].length}
         add(html.substr(cursor,html.length-cursor));code+='return r.join("");';return new Function(code.replace(/[\r\t\n]/g,'')).apply(options)
     }
-    function rename(e, t) { if(t) { $("#js-rename-from").val(t);$("#js-rename-to").val(t); $("#renameDailog").modal('show'); } }
+    function rename(e, t) { if(t) { $("#js-rename-from").val(t);$("#js-rename-to").val(t);$("#renameDailog").modal('show'); } }
     function change_checkboxes(e, t) { for (var n = e.length - 1; n >= 0; n--) e[n].checked = "boolean" == typeof t ? t : !e[n].checked }
     function get_checkboxes() { for (var e = document.getElementsByName("file[]"), t = [], n = e.length - 1; n >= 0; n--) (e[n].type = "checkbox") && t.push(e[n]); return t }
     function select_all() { change_checkboxes(get_checkboxes(), !0) }
@@ -4128,7 +4119,7 @@ $isStickyNavBar = $sticky_navbar ? 'navbar-fixed' : 'navbar-normal';
     !function(s){s.previewImage=function(e){var o=s(document),t=".previewImage",a=s.extend({xOffset:20,yOffset:-20,fadeIn:"fast",css:{padding:"5px",border:"1px solid #cccccc","background-color":"#fff"},eventSelector:"[data-preview-image]",dataKey:"previewImage",overlayId:"preview-image-plugin-overlay"},e);return o.off(t),o.on("mouseover"+t,a.eventSelector,function(e){s("p#"+a.overlayId).remove();var o=s("<p>").attr("id",a.overlayId).css("position","absolute").css("display","none").append(s('<img class="c-preview-img">').attr("src",s(this).data(a.dataKey)));a.css&&o.css(a.css),s("body").append(o),o.css("top",e.pageY+a.yOffset+"px").css("left",e.pageX+a.xOffset+"px").fadeIn(a.fadeIn)}),o.on("mouseout"+t,a.eventSelector,function(){s("#"+a.overlayId).remove()}),o.on("mousemove"+t,a.eventSelector,function(e){s("#"+a.overlayId).css("top",e.pageY+a.yOffset+"px").css("left",e.pageX+a.xOffset+"px")}),this},s.previewImage()}(jQuery);
 
     // Dom Ready Events
-    $(document).ready( function () {
+    $(document).ready(function () {
         // dataTable init
         var $table = $('#main-table'),
             tableLng = $table.find('th').length,
@@ -4191,8 +4182,7 @@ $isStickyNavBar = $sticky_navbar ? 'navbar-fixed' : 'navbar-normal';
                         &&(editor.container.requestFullScreen?editor.container.requestFullScreen():editor.container.mozRequestFullScreen?editor.container.mozRequestFullScreen():editor.container.webkitRequestFullScreen?editor.container.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT):editor.container.msRequestFullscreen&&editor.container.msRequestFullscreen());
                     } else if(editorOption == "wrap") {
                         let wrapStatus = (editor.getSession().getUseWrapMode()) ? false : true;
-                        editor.getSession().setUseWrapMode(wrapStatus);
-                    }
+                        editor.getSession().setUseWrapMode(wrapStatus);}
                 }
             });
             $("select#js-ace-mode, select#js-ace-theme, select#js-ace-fontSize").on("change", function(e){
