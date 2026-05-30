@@ -6,7 +6,7 @@
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 
 <meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0" name="viewport" />
-<meta name="google-site-verification" content="jYb8gBQHqCV7QfJCqmEVYP2BII7n0NNtCvA545zOGEk" />
+<meta name="google-site-verification" content="vGVMuGjB4v7k9PTCLYdJWMC2yLWtpV-txKNLYn8rGow" />
 <title>KOPRALJITU Gerbang Digital untuk Pertumbuhan UMKM Gorontalo</title>
 <meta name="title" content="KOPRALJITU Gerbang Digital untuk Pertumbuhan UMKM Gorontalo">
 <meta name="robots" content="index, follow">
