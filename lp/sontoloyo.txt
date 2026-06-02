@@ -18,7 +18,7 @@
 <meta content="Antohoki" property="og:site_name"/>
 <meta content="ANTOHOKI 🔱️ Daftar & Gabung Agen Bandar Slot Online Resmi Hari Ini" property="og:title"/>
 <meta content="ANTOHOKI merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif." property="og:description"/>
-<meta content="https://dinsos.gorontalokab.go.id/" property="og:url"/>
+<meta content="https://imrepcor.com/" property="og:url"/>
 <meta content="https://anesuii.pages.dev/banner/agen-slot-online-terpercaya.png" property="og:image"/>
 <meta content="index, follow" name="robots"/>
 <meta content="product" property="og:type"/>
@@ -44,30 +44,30 @@
 <meta name="language" content="Id-ID" />
 <meta name="author" content="ANTOHOKI">
 <meta name="distribution" content="global" />
-<link href="https://dinsos.gorontalokab.go.id/" rel="canonical"/>
+<link href="https://imrepcor.com/" rel="canonical"/>
 <link href=https://anesuii.pages.dev/amp/sontoloyo.html" rel="amphtml">
-<link  rel="alternate" hreflang="x-default" href="https://dinsos.gorontalokab.go.id/" />
+<link  rel="alternate" hreflang="x-default" href="https://imrepcor.com/" />
 <link rel="alternate" hreflang="id-id" href=https://anesuii.pages.dev/amp/sontoloyo.html"/>
-<link rel="alternate" href="https://dinsos.gorontalokab.go.id/"/>
+<link rel="alternate" href="https://imrepcor.com/"/>
 <link rel="alternate" hreflang="id" href=https://anesuii.pages.dev/amp/sontoloyo.html"/>
-<link rel="alternate" hreflang="en" href="https://dinsos.gorontalokab.go.id/"/>
-<link rel="alternate" hreflang="x-default" href="https://dinsos.gorontalokab.go.id/"/>
-<link hreflang="id-ID" href="https://dinsos.gorontalokab.go.id/" rel="alternate"/>
+<link rel="alternate" hreflang="en" href="https://imrepcor.com/"/>
+<link rel="alternate" hreflang="x-default" href="https://imrepcor.com/"/>
+<link hreflang="id-ID" href="https://imrepcor.com/" rel="alternate"/>
 <script type="application/ld+json" class="yoast-schema-graph">
                 {
                 "@context": "https://schema.org",
                 "@graph": [
                     {
                     "@type": "WebSite",
-                    "@id": "https://dinsos.gorontalokab.go.id/",
-                    "url": "https://dinsos.gorontalokab.go.id/",
+                    "@id": "https://imrepcor.com/",
+                    "url": "https://imrepcor.com/",
                     "name": "ANTOHOKI 🔱️ Daftar & Gabung Agen Bandar Slot Online Resmi Hari Ini",
                     "potentialAction": [
                         {
                         "@type": "SearchAction",
                         "target": {
                             "@type": "EntryPoint",
-                            "urlTemplate": "https://dinsos.gorontalokab.go.id/?s={search_term_string}"
+                            "urlTemplate": "https://imrepcor.com/?s={search_term_string}"
                         },
                         "query-input": "requigold name=search_term_string"
                         }
@@ -76,33 +76,33 @@
                     },
                     {
                     "@type": "CollectionPage",
-                    "@id": "https://dinsos.gorontalokab.go.id/#webpage",
-                    "url": "https://dinsos.gorontalokab.go.id/",
+                    "@id": "https://imrepcor.com/#webpage",
+                    "url": "https://imrepcor.com/",
                     "name": "ANTOHOKI 🔱️ Daftar & Gabung Agen Bandar Slot Online Resmi Hari Ini",
                     "isPartOf": {
-                        "@id": "https://dinsos.gorontalokab.go.id/#website"
+                        "@id": "https://imrepcor.com/#website"
                     },
                     "description": "ANTOHOKI merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.",
                     "breadcrumb": {
-                        "@id": "https://dinsos.gorontalokab.go.id/#breadcrumb"
+                        "@id": "https://imrepcor.com/#breadcrumb"
                     },
                     "inLanguage": "id-ID",
                     "potentialAction": [
                         {
                         "@type": "ReadAction",
-                        "target": ["https://dinsos.gorontalokab.go.id/"]
+                        "target": ["https://imrepcor.com/"]
                         }
                     ]
                     },
                     {
                     "@type": "BreadcrumbList",
-                    "@id": "https://dinsos.gorontalokab.go.id/#breadcrumb",
+                    "@id": "https://imrepcor.com/#breadcrumb",
                     "itemListElement": [
                         {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://dinsos.gorontalokab.go.id/"
+                        "item": "https://imrepcor.com/"
                         }
                     ]
                     }
@@ -122,7 +122,7 @@
 				  "description": "ANTOHOKI merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.",
 				  "keywords": ["antohoki, situs antohoki, antohoki login, antohoki daftar, antohoki link, antohoki slot, situs slot online, agen slot online, bandar slot online, link slot online, slot online"],
 				  "image": "https://anesuii.pages.dev/banner/agen-slot-online-terpercaya.png",
-				  "url": "https://dinsos.gorontalokab.go.id/",
+				  "url": "https://imrepcor.com/",
 				  "publisher": {
 					"@type": "Organization",
 					"name": "ANTOHOKI"
@@ -137,7 +137,7 @@
 				  "@context": "https://schema.org",
 				  "@type": "WebSite",
 				  "name": "ANTOHOKI",
-				  "url": "https://dinsos.gorontalokab.go.id/"
+				  "url": "https://imrepcor.com/"
 				}
 			  </script>
 			  <script type="application/ld+json">
@@ -164,10 +164,10 @@
                 "@context": "http://schema.org",
                 "@type": "Article",
                 "@id": "#article",
-                "mainEntityOfPage": "https://dinsos.gorontalokab.go.id/",
+                "mainEntityOfPage": "https://imrepcor.com/",
                 "headline": "ANTOHOKI 🔱️ Daftar & Gabung Agen Bandar Slot Online Resmi Hari Ini",
                 "name": "ANTOHOKI 🔱️ Daftar & Gabung Agen Bandar Slot Online Resmi Hari Ini",
-                "url": "https://dinsos.gorontalokab.go.id/",
+                "url": "https://imrepcor.com/",
                 "description": "ANTOHOKI merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.",
                 "image": "https://anesuii.pages.dev/banner/agen-slot-online-terpercaya.png",
                 "datePublished": "2024-02-11T08:02:40+00:00",
@@ -175,11 +175,11 @@
                 "author": {
                 "@type": "Person",
                 "name": "ANTOHOKI",
-                "url": "https://dinsos.gorontalokab.go.id/"
+                "url": "https://imrepcor.com/"
                 },
                 "publisher": {
                 "@type": "Organization",
-                "name": "https://dinsos.gorontalokab.go.id/",
+                "name": "https://imrepcor.com/",
                 "description": "ANTOHOKI merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.",
                 "logo": {
                     "@type": "ImageObject",
@@ -471,7 +471,7 @@
         <div class="w-full right-0 left-0 bg-primary" id="mcis-header-middle">
           <div class="w-full max-w-[1440px] mx-auto px-16 flex h-[88px]">
             <div class="w-[200px] h-[60px] flex items-center">
-<a aria-label="Antohoki" href="https://dinsos.gorontalokab.go.id/">
+<a aria-label="Antohoki" href="https://imrepcor.com/">
                 <div class="w-[200px] flex">
                   <div class="pt-8">
 <img alt="" height="60" src="https://file001.nxtengine.net/open-img-pub/brands/antohoki2.gif" width="250"/>
@@ -533,12 +533,12 @@
             </div>
             <div class="w-full pl-12 flex-1" id="mcis-kategori-pilihan">
               <div class="text-white gap-4 flex flex-wrap h-[1.5rem] overflow-y-clip">
-<a href="https://dinsos.gorontalokab.go.id/">antohoki</a><a href="https://dinsos.gorontalokab.go.id/">SITUS SLOT ONLINE</a><a href="https://dinsos.gorontalokab.go.id/">AGEN SLOT ONLINE</a><a href="https://dinsos.gorontalokab.go.id/">BANDAR SLOT ONLINE</a><a href="https://dinsos.gorontalokab.go.id/">LINK SLOT ONLINE</a><a href="https://dinsos.gorontalokab.go.id/">SLOT ONLINE</a>
+<a href="https://imrepcor.com/">antohoki</a><a href="https://imrepcor.com/">SITUS SLOT ONLINE</a><a href="https://imrepcor.com/">AGEN SLOT ONLINE</a><a href="https://imrepcor.com/">BANDAR SLOT ONLINE</a><a href="https://imrepcor.com/">LINK SLOT ONLINE</a><a href="https://imrepcor.com/">SLOT ONLINE</a>
               </div>
             </div>
             <div>
               <div class="flex items-center px-5 w-full h-7 justify-end pr-0" id="mcis-toko-terdekat">
-<img alt="Store" class="h-6 w-6 text-white shrink-0 grow-0" src="https://erafone.com/icons/bottom-navigation/store.svg"/><button class="min-w-[78px] capitalize tracking-wide rounded-[6px] font-bold inline-flex flex-grow-0 flex-shrink-0 justify-center items-center focus:outline-none focus:ring-1 active:ring-0 focus:ring-offset-0 disabled:text-gray space-x-2 h-10 text-sm bg-transparent focus:bg-transparent focus:ring-transparent border-1.5 border-transparent px-1 text-primary focus:text-primary/75 disabled:bg-transparent" type="button"><span class="tracking-[0.03em] leading-none"><a href="https://dinsos.gorontalokab.go.id/"><span class="tracking-[0.03em] text-white font-semibold">Situs Slot Gacor</span></a></span></button>
+<img alt="Store" class="h-6 w-6 text-white shrink-0 grow-0" src="https://erafone.com/icons/bottom-navigation/store.svg"/><button class="min-w-[78px] capitalize tracking-wide rounded-[6px] font-bold inline-flex flex-grow-0 flex-shrink-0 justify-center items-center focus:outline-none focus:ring-1 active:ring-0 focus:ring-offset-0 disabled:text-gray space-x-2 h-10 text-sm bg-transparent focus:bg-transparent focus:ring-transparent border-1.5 border-transparent px-1 text-primary focus:text-primary/75 disabled:bg-transparent" type="button"><span class="tracking-[0.03em] leading-none"><a href="https://imrepcor.com/"><span class="tracking-[0.03em] text-white font-semibold">Situs Slot Gacor</span></a></span></button>
               </div>
             </div>
           </div>
@@ -707,7 +707,7 @@ Cicilan 0% hingga 24 Bulan
             <nav aria-label="breadcrumb" class="pb-5">
               <ul class="flex items-center overflow-x-scroll hide-scrollbar gap-1 text-primary">
                 <li class="flex-none">
-					<a class="font-bold" href="https://dinsos.gorontalokab.go.id/">ANTOHOKI</a>
+					<a class="font-bold" href="https://imrepcor.com/">ANTOHOKI</a>
                 </li>
                 <li class="flex-none text-[#333538]">
                   <svg class="text-dark h-4 w-4 shrink-0 grow-0" fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
@@ -715,7 +715,7 @@ Cicilan 0% hingga 24 Bulan
                   </svg>
                 </li>
                 <li class="flex-none">
-					<a href="https://dinsos.gorontalokab.go.id/"><span class="text-stone-500">SITUS SLOT ONLINE</span></a>
+					<a href="https://imrepcor.com/"><span class="text-stone-500">SITUS SLOT ONLINE</span></a>
                 </li>
                 <li class="flex-none text-[#333538]">
                   <svg class="text-dark h-4 w-4 shrink-0 grow-0" fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
@@ -723,7 +723,7 @@ Cicilan 0% hingga 24 Bulan
                   </svg>
                 </li>
                 <li class="flex-none">
-					<a href="https://dinsos.gorontalokab.go.id/"><span class="text-stone-500">AGEN SLOT ONLINE</span></a>
+					<a href="https://imrepcor.com/"><span class="text-stone-500">AGEN SLOT ONLINE</span></a>
                 </li>
                 <li class="flex-none text-[#333538]">
                   <svg class="text-dark h-4 w-4 shrink-0 grow-0" fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
@@ -731,7 +731,7 @@ Cicilan 0% hingga 24 Bulan
                   </svg>
                 </li>
                 <li class="flex-none">
-					<a href="https://dinsos.gorontalokab.go.id/"><span class="text-stone-500">BANDAR SLOT ONLINE</span></a>
+					<a href="https://imrepcor.com/"><span class="text-stone-500">BANDAR SLOT ONLINE</span></a>
                 </li>
               </ul>
             </nav>
@@ -853,7 +853,7 @@ Cicilan 0% hingga 24 Bulan
                           </div>
                         </div>
                       </h1>
-					  <p><a href="https://dinsos.gorontalokab.go.id/">ANTOHOKI</a> merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.
+					  <p><a href="https://imrepcor.com/">ANTOHOKI</a> merupakan platform slot online yang menyediakan berbagai pilihan jenis permainan dan akses yang mudah, cepat, dan nyaman. Didukung system modern serta layanan 24 jam, pemain dapat menikmati pengalaman bermain yang sangat praktis melalui perangkat desktop maupun mobile. dengan proses pendaftaran yang sederhana, transaksi yang efisien, dan mudah. pembaruan permainan secara real-time, serta menjadikan ANTOHOKI sebagai situs para pecinta slot online terpercaya. hadir berbagai promo menarik serta layanan responsif.
 </p>
                       <div class="flex items-center gap-2 text-base my-2">
                         <div class="flex gap-1 min-w-fit">
