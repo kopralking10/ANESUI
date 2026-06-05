@@ -60,16 +60,7 @@
     <meta name="language" content="Id-ID" />
     <meta name="author" content="PENIDABET">
     <meta name="distribution" content="global" />
-<meta name="google-site-verification" content="rpbORC-91iuTajH4NMcB36okW_T6j1kDM_cmILgDPDA" />
-<meta name="google-site-verification" content="yXIbDBYpyMpk875fbn2QgcEQj_yBdCwI37stbPtsitw" />
-<meta name="google-site-verification" content="ouf_y3GT8j6EG0JQKRTgqVgMHxXmbSvasLD9qMxkIgQ" />
-<meta name="google-site-verification" content="_pzuRdCHXJm--CTc6V77thHBz2SoeCuQmMpS0n6t1A0" />
-<meta name="google-site-verification" content="Dql1fd_RaWUCdTVDlp2rymDe3FgqhwxNLGgKhnidoEg" />
-<meta name="google-site-verification" content="3h4Rd205wmtWbJZ7oUwL5syMmkAgPOoL7CNxau8AqVY" />
-<meta name="google-site-verification" content="IfONBrVXLbK9x8EkaqQaVDY5a4qs2ALGb5Aty1yy-SI" />
-<meta name="google-site-verification" content="HptB21M1_LlHpWNklrIvW7t4cE4Mk8S3KM8hIlYIVzI" />
-<meta name="google-site-verification" content="C-VAyxf7UK7L8_Bizf1_D0lACKTRplHHXoo0aYR6tEI" />
-<meta name="google-site-verification" content="Pb4aMYScN15GVnMMBz7Pl8Yts-kWyl8H0T-lWhR9_3c" />
+<meta name="google-site-verification" content="wcG_jAeDlog_mlIYt0IKmia2K7MXztaUV5zhCEvB8vw" />
     <link href="https://himaaksi.unimus.ac.id/" rel="canonical" />
     <link href="https://anesuii.pages.dev/amp/comikang.html" rel="amphtml">
     <link rel="alternate" hreflang="id-id" href="https://anesuii.pages.dev/amp/comikang.html"/>
