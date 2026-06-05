@@ -27,7 +27,7 @@
     <meta
         content="SLOT777 merupakan situs slot online terpercaya 2026 dengan koleksi permainan populer, proses transaksi cepat, layanan responsif, serta pengalaman bermain yang nyaman dengan peluang maxwin yang lebih optimal setiap hari."
         property="og:description" />
-    <meta content="https://himaaksi.unimus.ac.id/" property="og:url" />
+    <meta content="https://lewis.unimus.ac.id/" property="og:url" />
     <meta
         content="https://anesuii.pages.dev/banner/banner.png"
         property="og:image" />
@@ -61,7 +61,7 @@
     <meta name="author" content="PENIDABET">
     <meta name="distribution" content="global" />
 <meta name="google-site-verification" content="wcG_jAeDlog_mlIYt0IKmia2K7MXztaUV5zhCEvB8vw" />
-    <link href="https://himaaksi.unimus.ac.id/" rel="canonical" />
+    <link href="https://lewis.unimus.ac.id/" rel="canonical" />
     <link href="https://anesuii.pages.dev/amp/comikang.html" rel="amphtml">
     <link rel="alternate" hreflang="id-id" href="https://anesuii.pages.dev/amp/comikang.html"/>
     <link rel="alternate" href="https://anesuii.pages.dev/amp/comikang.html"/>
@@ -74,15 +74,15 @@
                 "@graph": [
                     {
                     "@type": "WebSite",
-                    "@id": "https://himaaksi.unimus.ac.id/",
-                    "url": "https://himaaksi.unimus.ac.id/",
+                    "@id": "https://lewis.unimus.ac.id/",
+                    "url": "https://lewis.unimus.ac.id/",
                     "name": "SLOT777 ✔️ Situs Slot Online Terpercaya Mudah Maxwin & Link Daftar Resmi 2026",
                     "potentialAction": [
                         {
                         "@type": "SearchAction",
                         "target": {
                             "@type": "EntryPoint",
-                            "urlTemplate": "https://himaaksi.unimus.ac.id/?s={search_term_string}"
+                            "urlTemplate": "https://lewis.unimus.ac.id/?s={search_term_string}"
                         },
                         "query-input": "requigold name=search_term_string"
                         }
@@ -91,33 +91,33 @@
                     },
                     {
                     "@type": "CollectionPage",
-                    "@id": "https://himaaksi.unimus.ac.id/#webpage",
-                    "url": "https://himaaksi.unimus.ac.id/",
+                    "@id": "https://lewis.unimus.ac.id/#webpage",
+                    "url": "https://lewis.unimus.ac.id/",
                     "name": "SLOT777 ✔️ Situs Slot Online Terpercaya Mudah Maxwin & Link Daftar Resmi 2026",
                     "isPartOf": {
-                        "@id": "https://himaaksi.unimus.ac.id/#website"
+                        "@id": "https://lewis.unimus.ac.id/#website"
                     },
                     "description": "SLOT777 merupakan situs slot online terpercaya 2026 dengan koleksi permainan populer, proses transaksi cepat, layanan responsif, serta pengalaman bermain yang nyaman dengan peluang maxwin yang lebih optimal setiap hari.",
                     "breadcrumb": {
-                        "@id": "https://himaaksi.unimus.ac.id/#breadcrumb"
+                        "@id": "https://lewis.unimus.ac.id/#breadcrumb"
                     },
                     "inLanguage": "id-ID",
                     "potentialAction": [
                         {
                         "@type": "ReadAction",
-                        "target": ["https://himaaksi.unimus.ac.id/"]
+                        "target": ["https://lewis.unimus.ac.id/"]
                         }
                     ]
                     },
                     {
                     "@type": "BreadcrumbList",
-                    "@id": "https://himaaksi.unimus.ac.id/#breadcrumb",
+                    "@id": "https://lewis.unimus.ac.id/#breadcrumb",
                     "itemListElement": [
                         {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://himaaksi.unimus.ac.id/"
+                        "item": "https://lewis.unimus.ac.id/"
                         }
                     ]
                     }
@@ -137,7 +137,7 @@
 				  "description": "SLOT777 merupakan situs slot online terpercaya 2026 dengan koleksi permainan populer, proses transaksi cepat, layanan responsif, serta pengalaman bermain yang nyaman dengan peluang maxwin yang lebih optimal setiap hari.",
 				  "keywords": ["slot77, slot 777, slot777 login, slot777 link, slot777 toto, situs toto, slot online, situs toto, slot 4d"],
 				  "image": "https://anesuii.pages.dev/banner/banner.png",
-				  "url": "https://himaaksi.unimus.ac.id/",
+				  "url": "https://lewis.unimus.ac.id/",
 				  "publisher": {
 					"@type": "Organization",
 					"name": "SLOT777"
@@ -152,7 +152,7 @@
 				  "@context": "https://schema.org",
 				  "@type": "WebSite",
 				  "name": "SLOT777",
-				  "url": "https://himaaksi.unimus.ac.id/"
+				  "url": "https://lewis.unimus.ac.id/"
 				}
 			  </script>
     <script type="application/ld+json">
@@ -179,10 +179,10 @@
                 "@context": "http://schema.org",
                 "@type": "Article",
                 "@id": "#article",
-                "mainEntityOfPage": "https://himaaksi.unimus.ac.id/",
+                "mainEntityOfPage": "https://lewis.unimus.ac.id/",
                 "headline": "SLOT777 ✔️ Situs Slot Online Terpercaya Mudah Maxwin & Link Daftar Resmi 2026",
                 "name": "SLOT777 ✔️ Situs Slot Online Terpercaya Mudah Maxwin & Link Daftar Resmi 2026",
-                "url": "https://himaaksi.unimus.ac.id/",
+                "url": "https://lewis.unimus.ac.id/",
                 "description": "SLOT777 merupakan situs slot online terpercaya 2026 dengan koleksi permainan populer, proses transaksi cepat, layanan responsif, serta pengalaman bermain yang nyaman dengan peluang maxwin yang lebih optimal setiap hari.",
                 "image": "https://anesuii.pages.dev/banner/banner.png",
                 "datePublished": "2024-02-11T08:02:40+00:00",
@@ -190,11 +190,11 @@
                 "author": {
                 "@type": "Person",
                 "name": "SLOT777",
-                "url": "https://himaaksi.unimus.ac.id/"
+                "url": "https://lewis.unimus.ac.id/"
                 },
                 "publisher": {
                 "@type": "Organization",
-                "name": "https://himaaksi.unimus.ac.id/",
+                "name": "https://lewis.unimus.ac.id/",
                 "description": "SLOT777 merupakan situs slot online terpercaya 2026 dengan koleksi permainan populer, proses transaksi cepat, layanan responsif, serta pengalaman bermain yang nyaman dengan peluang maxwin yang lebih optimal setiap hari.",
                 "logo": {
                     "@type": "ImageObject",
@@ -21091,7 +21091,7 @@
             <div class="w-full right-0 left-0 bg-primary" id="mcis-header-middle">
                 <div class="w-full max-w-[1440px] mx-auto px-16 flex h-[88px]">
                     <div class="w-[200px] h-[60px] flex items-center">
-                        <a aria-label="SLOT777" href="https://himaaksi.unimus.ac.id/">
+                        <a aria-label="SLOT777" href="https://lewis.unimus.ac.id/">
                             <div class="w-[200px] flex">
                                 <div class="pt-8">
                                     <img alt="Logo SLOT777" height="60"
@@ -21206,12 +21206,12 @@
                     </div>
                     <div class="w-full pl-12 flex-1" id="mcis-kategori-pilihan">
                         <div class="text-white gap-4 flex flex-wrap h-[1.5rem] overflow-y-clip">
-                            <a href="https://himaaksi.unimus.ac.id/">SLOT777</a><a
-                                href="https://himaaksi.unimus.ac.id/">SITUS SLOT
-                                </a><a href="https://himaaksi.unimus.ac.id/">TOTO SLOT</a><a
-                                href="https://himaaksi.unimus.ac.id/">SLOT 4D</a><a
-                                href="https://himaaksi.unimus.ac.id/">LINK
-                                SLOT</a><a href="https://himaaksi.unimus.ac.id/">BANDAR SLOT</a>
+                            <a href="https://lewis.unimus.ac.id/">SLOT777</a><a
+                                href="https://lewis.unimus.ac.id/">SITUS SLOT
+                                </a><a href="https://lewis.unimus.ac.id/">TOTO SLOT</a><a
+                                href="https://lewis.unimus.ac.id/">SLOT 4D</a><a
+                                href="https://lewis.unimus.ac.id/">LINK
+                                SLOT</a><a href="https://lewis.unimus.ac.id/">BANDAR SLOT</a>
                         </div>
                     </div>
                     <div>
@@ -21220,7 +21220,7 @@
                                 src="https://erafone.com/icons/bottom-navigation/store.svg" /><button
                                 class="min-w-[78px] capitalize tracking-wide rounded-[6px] font-bold inline-flex flex-grow-0 flex-shrink-0 justify-center items-center focus:outline-none focus:ring-1 active:ring-0 focus:ring-offset-0 disabled:text-gray space-x-2 h-10 text-sm bg-transparent focus:bg-transparent focus:ring-transparent border-1.5 border-transparent px-1 text-primary focus:text-primary/75 disabled:bg-transparent"
                                 type="button"><span class="tracking-[0.03em] leading-none"><a
-                                        href="https://himaaksi.unimus.ac.id/"><span
+                                        href="https://lewis.unimus.ac.id/"><span
                                             class="tracking-[0.03em] text-white font-semibold">KEDAI SLOT
                                             GACOR</span></a></span></button>
                         </div>
@@ -21437,7 +21437,7 @@
                     <nav aria-label="breadcrumb" class="pb-5">
                         <ul class="flex items-center overflow-x-scroll hide-scrollbar gap-1 text-primary">
                             <li class="flex-none">
-                                <a class="font-bold" href="https://himaaksi.unimus.ac.id/">SLOT777</a>
+                                <a class="font-bold" href="https://lewis.unimus.ac.id/">SLOT777</a>
                             </li>
                             <li class="flex-none text-[#333538]">
                                 <svg class="text-dark h-4 w-4 shrink-0 grow-0" fill="none" height="16"
@@ -21449,7 +21449,7 @@
                                 </svg>
                             </li>
                             <li class="flex-none">
-                                <a href="https://himaaksi.unimus.ac.id/"><span class="text-stone-500">SLOT 
+                                <a href="https://lewis.unimus.ac.id/"><span class="text-stone-500">SLOT 
                                     777
                                 </span></a>
                             </li>
@@ -21463,7 +21463,7 @@
                                 </svg>
                             </li>
                             <li class="flex-none">
-                                <a href="https://himaaksi.unimus.ac.id/"><span class="text-stone-500">SLOT777
+                                <a href="https://lewis.unimus.ac.id/"><span class="text-stone-500">SLOT777
                                     LOGIN
                                 </span></a>
                             </li>
@@ -21477,7 +21477,7 @@
                                 </svg>
                             </li>
                             <li class="flex-none">
-                                <a href="https://himaaksi.unimus.ac.id/"><span class="text-stone-500">SLOT777
+                                <a href="https://lewis.unimus.ac.id/"><span class="text-stone-500">SLOT777
                                     LINK
                                 </span></a>
                             </li>
@@ -21664,7 +21664,7 @@
                                             </div>
 
                                         </h1>
-                                        <p><a href="https://himaaksi.unimus.ac.id/">SLOT777</a> hadir sebagai situs slot online terpercaya yang menawarkan pengalaman bermain lebih mudah, aman, dan berpeluang meraih maxwin setiap hari. Melalui link daftar resmi 2026, pemain dapat menikmati akses cepat, sistem stabil, serta berbagai pilihan permainan slot populer dari provider terbaik dengan proses registrasi yang praktis dan nyaman.</p>
+                                        <p><a href="https://lewis.unimus.ac.id/">SLOT777</a> hadir sebagai situs slot online terpercaya yang menawarkan pengalaman bermain lebih mudah, aman, dan berpeluang meraih maxwin setiap hari. Melalui link daftar resmi 2026, pemain dapat menikmati akses cepat, sistem stabil, serta berbagai pilihan permainan slot populer dari provider terbaik dengan proses registrasi yang praktis dan nyaman.</p>
                                         <div class="flex items-center gap-2 text-base my-2">
                                             <div class="flex gap-1 min-w-fit">
                                                 <img alt="bebas ongkir"
@@ -21925,7 +21925,7 @@
                 <strong>Sinyal Transparansi & Keamanan:</strong> Artikel ini ditinjau secara berkala oleh tim teknis internal untuk memastikan validitas <strong>slot777 link</strong> alternatif, enkripsi perlindungan data konsumen, serta layanan service 24/7.
                 </div>
 
-                <p>Lupakan drama server *stuck* atau tautan eror di menit-menit krusial sebelum memulai permainan; <a href="https://himaaksi.unimus.ac.id/" style="font-weight: bold; color: rgba(250, 204, 21, .95);">SLOT777</a> hadir sebagai situs slot online terpercaya yang menawarkan pengalaman bermain lebih mudah, aman, dan berpeluang meraih maxwin setiap hari. Melalui link daftar resmi 2026, pemain dapat menikmati akses cepat, sistem stabil, serta berbagai pilihan permainan slot populer dari provider terbaik dengan proses registrasi yang praktis dan nyaman.</p>
+                <p>Lupakan drama server *stuck* atau tautan eror di menit-menit krusial sebelum memulai permainan; <a href="https://lewis.unimus.ac.id/" style="font-weight: bold; color: rgba(250, 204, 21, .95);">SLOT777</a> hadir sebagai situs slot online terpercaya yang menawarkan pengalaman bermain lebih mudah, aman, dan berpeluang meraih maxwin setiap hari. Melalui link daftar resmi 2026, pemain dapat menikmati akses cepat, sistem stabil, serta berbagai pilihan permainan slot populer dari provider terbaik dengan proses registrasi yang praktis dan nyaman.</p>
 
                 <p>Sebagai platform <strong>slot online</strong> terpercaya, <strong>SLOT777</strong> mengutamakan kualitas layanan dan kenyamanan pengguna. Didukung teknologi modern dengan performa server yang optimal, pemain dapat menikmati permainan tanpa hambatan. Tersedia pula berbagai promo menarik, peluang jackpot besar, serta layanan profesional yang siap membantu kapan saja untuk memberikan pengalaman bermain yang lebih maksimal.</p>
 
