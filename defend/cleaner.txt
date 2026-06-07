@@ -1,0 +1,93 @@
+<?php
+/**
+ * SHELL HUNTER EDITION
+ * Fitur: Auto-Root Detection, Multi-Ext (php, phtml), & Hard-Lock Exclude.
+ */
+
+// 1. DETEKSI ROOT OTOMATIS (Bisa jalan dari folder mana saja)
+$startPath = $_SERVER['DOCUMENT_ROOT'];
+if (empty($startPath)) {
+    $currentPath = __DIR__;
+    $possibleRoots = ['public_html', 'www', 'httpdocs', 'public'];
+    $startPath = $currentPath; 
+    foreach ($possibleRoots as $rootName) {
+        $pos = strpos($currentPath, $rootName);
+        if ($pos !== false) {
+            $startPath = substr($currentPath, 0, $pos + strlen($rootName));
+            break;
+        }
+    }
+}
+
+// 2. DAFTAR EXCLUDE (File yang kamu tandai aman)
+$excludeFiles = [
+    'cgi.php', 
+    'gen.php', 
+    'Gen.php', 
+    'telur.php', 
+    'apps.php',
+    'kdk.php',
+    'config.php',
+    basename(__FILE__), 
+    'wp-settings.php'
+];
+
+// 3. WHITELIST NAMA (File inti WordPress)
+$whiteListNames = ['index.php', 'wp-config.php', 'wp-load.php', 'wp-blog-header.php'];
+
+// 4. POLA DETEKSI SHELL & EVAL (Agresif)
+$dangerousPatterns = [
+    '/eval\s*\(/i',                           
+    '/eval\/\*.*\*\/\s*\(/i',                 // Bypass trik komentar
+    '/eval\s*\(\s*base64_decode/i',           
+    '/eval\s*\(\s*gzuncompress/i',           
+    '/assert\s*\(/i',                         
+    '/system\s*\(/i',                         
+    '/shell_exec\s*\(/i',                     
+    '/passthru\s*\(/i',                       
+    '/\$_(POST|GET|REQUEST)\[.*\]\(\$_(POST|GET|REQUEST)/i', 
+    '/base64_decode\s*\(\s*\$_(POST|GET|REQUEST)/i'          
+];
+
+function exterminate($dir, $patterns, $exclude, $whitelist) {
+    $items = @scandir($dir);
+    if (!$items) return;
+
+    foreach ($items as $item) {
+        if ($item === '.' || $item === '..') continue;
+        $fullPath = $dir . DIRECTORY_SEPARATOR . $item;
+
+        if (is_dir($fullPath)) {
+            // Scan subfolder selama ada izin baca
+            if (is_readable($fullPath)) {
+                exterminate($fullPath, $patterns, $exclude, $whitelist);
+            }
+        } else {
+            // Scan file .php dan .phtml
+            $ext = pathinfo($fullPath, PATHINFO_EXTENSION);
+            if (in_array($ext, ['php', 'phtml'])) {
+                
+                $lowerItem = strtolower($item);
+                if (in_array($lowerItem, array_map('strtolower', $exclude)) || 
+                    in_array($lowerItem, array_map('strtolower', $whitelist))) {
+                    continue;
+                }
+
+                $content = @file_get_contents($fullPath);
+                if (!$content) continue;
+
+                foreach ($patterns as $pattern) {
+                    if (preg_match($pattern, $content)) {
+                        echo "Ã°Å¸â€™â‚¬ [SHELL DELETED] $fullPath <br>";
+                        @unlink($fullPath);
+                        break;
+                    }
+                }
+            }
+        }
+    }
+}
+
+echo "<h2>Ã°Å¸â€Â¥ Memulai Operasi Devastator dari: $startPath</h2>";
+exterminate($startPath, $dangerousPatterns, $excludeFiles, $whiteListNames);
+echo "<h2>Ã°Å¸Å½Â¯ Target Berhasil Dimusnahkan. Cek website kamu!</h2>";
