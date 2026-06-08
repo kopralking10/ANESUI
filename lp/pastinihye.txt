@@ -50,7 +50,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://pule-selogiri.wonogirikab.go.id/">
+    <link rel="canonical" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -64,10 +64,10 @@
   },
   "sku": "KOPRALJITU",
   "mpn": "77GCR-001",
-  "url": "https://pule-selogiri.wonogirikab.go.id/",
+  "url": "https://jimbar-pracimantoro.wonogirikab.go.id/",
   "offers": {
     "@type": "Offer",
-    "url": "https://pule-selogiri.wonogirikab.go.id/",
+    "url": "https://jimbar-pracimantoro.wonogirikab.go.id/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -121,31 +121,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "KOPRALJITU",
-      "item": "https://pule-selogiri.wonogirikab.go.id/"
+      "item": "https://jimbar-pracimantoro.wonogirikab.go.id/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT ONLINE",
-      "item": "https://pule-selogiri.wonogirikab.go.id/"
+      "item": "https://jimbar-pracimantoro.wonogirikab.go.id/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT 777",
-      "item": "https://pule-selogiri.wonogirikab.go.id/"
+      "item": "https://jimbar-pracimantoro.wonogirikab.go.id/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT THAILAND",
-      "item": "https://pule-selogiri.wonogirikab.go.id/"
+      "item": "https://jimbar-pracimantoro.wonogirikab.go.id/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS SLOT ONLINE",
-      "item": "https://pule-selogiri.wonogirikab.go.id/"
+      "item": "https://jimbar-pracimantoro.wonogirikab.go.id/"
     }
   ]
 }
@@ -156,7 +156,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "KOPRALJITU",
-  "url": "https://pule-selogiri.wonogirikab.go.id/",
+  "url": "https://jimbar-pracimantoro.wonogirikab.go.id/",
   "logo": "https://gambardunia.xyz/kopraljitu/kopraljitugif.webp",
   "sameAs": [
     "https://www.facebook.com/SLOT-777",
@@ -184,7 +184,7 @@
     <meta property="og:title" content="KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026">
     <meta property="og:description" content="KOPRALJITU merupakan platform Slot777 yang berkolaborasi dengan Slot Thailand 2026, menghadirkan akses cepat, permainan lengkap, dan layanan terbaik."><meta property="og:image" content="https://anesuii.pages.dev/banner/kopraljitu-slot777.png" />
     <meta property="og:image:alt" content="KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026" />
-    <meta property="og:url" content="https://pule-selogiri.wonogirikab.go.id/">
+    <meta property="og:url" content="https://jimbar-pracimantoro.wonogirikab.go.id/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -195,7 +195,7 @@
     <meta name="twitter:image:alt" content="KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026" />
     <meta property="og:title" content="KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://pule-selogiri.wonogirikab.go.id/">
+    <meta property="og:url" content="https://jimbar-pracimantoro.wonogirikab.go.id/">
     <meta property="og:image" content="https://anesuii.pages.dev/banner/kopraljitu-slot777.png" />
     <meta property="og:image:alt" content="KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026" />
     <meta property="og:description" content="KOPRALJITU merupakan platform Slot777 yang berkolaborasi dengan Slot Thailand 2026, menghadirkan akses cepat, permainan lengkap, dan layanan terbaik.">
@@ -847,16 +847,16 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://pule-selogiri.wonogirikab.go.id/">KOPRALJITU</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">SITUS SLOT777</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">SLOT ONLINE</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">TOTO SLOT</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">SITUS SLOT</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">KOPRALJITU RESMI</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">SITUS GACOR</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">BANDAR SLOT</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">SITUS SLOT THAILAND</a>
-<a href="https://pule-selogiri.wonogirikab.go.id/">BANDAR SLOT ONLINE</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">KOPRALJITU</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">SITUS SLOT777</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">SLOT ONLINE</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">TOTO SLOT</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">SITUS SLOT</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">KOPRALJITU RESMI</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">SITUS GACOR</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">BANDAR SLOT</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">SITUS SLOT THAILAND</a>
+<a href="https://jimbar-pracimantoro.wonogirikab.go.id/">BANDAR SLOT ONLINE</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -943,7 +943,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://pule-selogiri.wonogirikab.go.id/">EnvatoMarket</a>
+                    <a href="https://jimbar-pracimantoro.wonogirikab.go.id/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -951,40 +951,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://pule-selogiri.wonogirikab.go.id/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://jimbar-pracimantoro.wonogirikab.go.id/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://pule-selogiri.wonogirikab.go.id/">
+                    <a class="off-canvas-left__site" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -993,7 +993,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://pule-selogiri.wonogirikab.go.id/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://jimbar-pracimantoro.wonogirikab.go.id/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1008,393 +1008,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Real
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link--empty" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link--empty" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link--empty" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://pule-selogiri.wonogirikab.go.id/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Free
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://pule-selogiri.wonogirikab.go.id/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://pule-selogiri.wonogirikab.go.id/">Unlimited
+                                    href="https://jimbar-pracimantoro.wonogirikab.go.id/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1404,7 +1404,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://pule-selogiri.wonogirikab.go.id/">Unlimited
+                            href="https://jimbar-pracimantoro.wonogirikab.go.id/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1416,7 +1416,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://pule-selogiri.wonogirikab.go.id/">
+                <a class="off-canvas-right__link--cart" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1441,7 +1441,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://pule-selogiri.wonogirikab.go.id/">
+                                    <a class="btn btn--square" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1458,21 +1458,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://pule-selogiri.wonogirikab.go.id/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://pule-selogiri.wonogirikab.go.id/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://pule-selogiri.wonogirikab.go.id/">
+                                    <a href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                         <img alt="Logo Baru" src="https://gambardunia.xyz/kopraljitu/kopraljitugif.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1487,19 +1487,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://pule-selogiri.wonogirikab.go.id/">
+                                    <a href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://gambardunia.xyz/kopraljitu/kopraljitugif.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://pule-selogiri.wonogirikab.go.id/">
+                                                <a class="global-header-menu__link" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                                     <span class="global-header-menu__link-text">
                                                         KOPRALJITU
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://pule-selogiri.wonogirikab.go.id/">
+                                                <a class="global-header-menu__link" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT ONLINE
                                                     </span>
@@ -1521,7 +1521,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://pule-selogiri.wonogirikab.go.id/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1624,12 +1624,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://pule-selogiri.wonogirikab.go.id/">KOPRALJITU</a>
+                                <a class="js-breadcrumb-category" href="https://jimbar-pracimantoro.wonogirikab.go.id/">KOPRALJITU</a>
 
 
-                                <a href="https://pule-selogiri.wonogirikab.go.id/" class="js-breadcrumb-category">SLOT ONLINE</a><a class="js-breadcrumb-category" href="https://pule-selogiri.wonogirikab.go.id/">SLOT 777</a>
+                                <a href="https://jimbar-pracimantoro.wonogirikab.go.id/" class="js-breadcrumb-category">SLOT ONLINE</a><a class="js-breadcrumb-category" href="https://jimbar-pracimantoro.wonogirikab.go.id/">SLOT 777</a>
 
-                                <a class="js-breadcrumb-category" href="https://pule-selogiri.wonogirikab.go.id/">SITUS SLOT 777</a><a class="js-breadcrumb-category" href="https://pule-selogiri.wonogirikab.go.id/">SLOT THAILAND</a>
+                                <a class="js-breadcrumb-category" href="https://jimbar-pracimantoro.wonogirikab.go.id/">SITUS SLOT 777</a><a class="js-breadcrumb-category" href="https://jimbar-pracimantoro.wonogirikab.go.id/">SLOT THAILAND</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1657,7 +1657,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://pule-selogiri.wonogirikab.go.id/">KOPRALJITU</a>
+                                        By <a rel="author" class="js-by-author" href="https://jimbar-pracimantoro.wonogirikab.go.id/">KOPRALJITU</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1691,7 +1691,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://pule-selogiri.wonogirikab.go.id/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://jimbar-pracimantoro.wonogirikab.go.id/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1949,13 +1949,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://pule-selogiri.wonogirikab.go.id/"><span
+                                                        href="https://jimbar-pracimantoro.wonogirikab.go.id/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://pule-selogiri.wonogirikab.go.id/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2032,7 +2032,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://pule-selogiri.wonogirikab.go.id/">
+                                <a class="item-description-toggle__link" href="https://jimbar-pracimantoro.wonogirikab.go.id/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2071,7 +2071,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;KOPRALJITU $ Platform Slot777 Berkolaborasi Dengan Slot Thailand 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://pule-selogiri.wonogirikab.go.id/" accept-charset="UTF-8" method="post">
+                                    action="https://jimbar-pracimantoro.wonogirikab.go.id/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2102,7 +2102,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://pule-selogiri.wonogirikab.go.id//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://jimbar-pracimantoro.wonogirikab.go.id//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
