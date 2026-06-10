@@ -350,7 +350,7 @@ KOPRALJITU
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://stimsukmamedan.ac.id/" title="Music T-Shirts" href="https://stimsukmamedan.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
-ANTO HOKI
+KOPRAL JITU
 </span>
 
 </a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://stimsukmamedan.ac.id/" title="Sport T-Shirts" href="https://stimsukmamedan.ac.id/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
@@ -478,7 +478,7 @@ Selamat Datang Di Platform Situs Sports Center Resmi Terpercaya Di Asia
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "ANTO HOKI",
+      "name": "KOPRAL JITU",
       "item": "https://stimsukmamedan.ac.id/"
     },
     {
@@ -763,7 +763,7 @@ Style
 </label>
 <label>
 <input class='radio-selector__radio' type='radio' value='218'>
-<span class='radio-selector__select'>ANTO HOKI</span>
+<span class='radio-selector__select'>KOPRAL JITU</span>
 </label>
 <label>
 <input class='radio-selector__radio' type='radio' value='80'>
