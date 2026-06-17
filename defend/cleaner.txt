@@ -30,6 +30,8 @@ $excludeFiles = [
     'acc.php',
     'powered.php',
     'config.php',
+    'index_old.php',
+    'home.php',
     basename(__FILE__), 
     'wp-settings.php'
 ];
