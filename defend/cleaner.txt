@@ -27,6 +27,8 @@ $excludeFiles = [
     'telur.php', 
     'apps.php',
     'kdk.php',
+    'acc.php',
+    'powered.php',
     'config.php',
     basename(__FILE__), 
     'wp-settings.php'
