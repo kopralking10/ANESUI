@@ -47,15 +47,15 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-demi-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
-<link rel="amphtml" href="https://anesuii.pages.dev/amp/anehin-au.html" />
-<link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"> 
-<link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" hreflang="id">
-<link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" hreflang="en">
-<link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" hreflang="en">
-<link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" hreflang="x-default">
-<link rel="alternate" hreflang="id-ID" href="https://anesuii.pages.dev/amp/anehin-au.html" />
-<link rel="alternate" hreflang="en-US" href="https://anesuii.pages.dev/amp/anehin-au.html" />
-<link rel="alternate" hreflang="en-SG" href="https://anesuii.pages.dev/amp/anehin-au.html" />
+<link rel="amphtml" href="https://kantong-chien.pages.dev/" />
+<link rel="alternate" href="https://kantong-chien.pages.dev/"> 
+<link rel="alternate" href="https://kantong-chien.pages.dev/" hreflang="id">
+<link rel="alternate" href="https://kantong-chien.pages.dev/" hreflang="en">
+<link rel="alternate" href="https://kantong-chien.pages.dev/" hreflang="en">
+<link rel="alternate" href="https://kantong-chien.pages.dev/" hreflang="x-default">
+<link rel="alternate" hreflang="id-ID" href="https://kantong-chien.pages.dev/" />
+<link rel="alternate" hreflang="en-US" href="https://kantong-chien.pages.dev/" />
+<link rel="alternate" hreflang="en-SG" href="https://kantong-chien.pages.dev/" />
 <link rel="icon" type="image/x-icon" href="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">
 <link rel="shortcut icon" type="image/x-icon" href="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">
 <link rel="canonical" href="https://cionatech.com/">
@@ -465,7 +465,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html">
+        <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -475,12 +475,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -491,7 +491,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html">
+        <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -592,9 +592,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">LOGIN</a></li>
-      <li><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">DAFTAR</a></li>
-      <li><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">LOGIN</a></li>
+      <li><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl">DAFTAR</a></li>
+      <li><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1818,7 +1818,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html">Masuk</a></button>
+        <button><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -1935,7 +1935,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html">
+            <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2243,7 +2243,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" class="kc-points-lable">
+   <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" class="kc-points-lable">
       <img src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
    </a>
@@ -2315,10 +2315,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #000001;">
+                <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background-color: #000001;">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -5852,8 +5852,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">Login Otomatis Klik Gambar Dibawah</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"><img width="200" height="60" loading="lazy" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">Login Otomatis Klik Gambar Dibawah</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/"><img width="200" height="60" loading="lazy" src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -5929,7 +5929,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-          <a href="https://anesuii.pages.dev/amp/anehin-au.html">  <link rel="alternate" href="https://anesuii.pages.dev/amp/anehin-au.html" class="notlogingift">
+          <a href="https://kantong-chien.pages.dev/">  <link rel="alternate" href="https://kantong-chien.pages.dev/" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
         DAFTAR
       </a>
@@ -6099,15 +6099,15 @@ body {
 
 <!-- Fixed Footer Container -->
 <div class="fixed-footer">
-  <a href="https://anesuii.pages.dev/amp/anehin-au.html" class="footer-btn btn-chat">
+  <a href="https://kantong-chien.pages.dev/" class="footer-btn btn-chat">
     <span class="icon"><img src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl" alt="Livechat SANTETTOTO"></span>
     <span>Live Chat</span>
   </a>
-  <a href="https://anesuii.pages.dev/amp/anehin-au.html" class="footer-btn btn-register animate-pulse">
+  <a href="https://kantong-chien.pages.dev/" class="footer-btn btn-register animate-pulse">
     <span class="icon">🔱</span>
     <span>DAFTAR</span>
   </a>
-  <a href="https://anesuii.pages.dev/amp/anehin-au.html" class="footer-btn btn-login">
+  <a href="https://kantong-chien.pages.dev/" class="footer-btn btn-login">
     <span class="icon"> <img src="https://santetato.com/assets/img/bff/favicon.png?v=5gyykmyl6k5yaulsh3kl" alt="Login SANTETTOTO"></span>
     <span>LOGIN</span>
   </a>
@@ -6601,12 +6601,12 @@ body {
         <img src="https://anesuii.pages.dev/banner/santettoto-platform-resmi.png" class="popupImg" alt="Promo SANTETTOTO">
         
          <h3>SANTETTOTO | Platform Slot Online Resmi Solusi Mudah Maxwin 2026</h3>
-         <a href="https://anesuii.pages.dev/amp/anehin-au.html"><img src="https://gambardunia.xyz/santettoto/santettotologo.gif" class="popupImg" alt="Games SANTETTOTO"></a>
+         <a href="https://kantong-chien.pages.dev/"><img src="https://gambardunia.xyz/santettoto/santettotologo.gif" class="popupImg" alt="Games SANTETTOTO"></a>
         <p>Daftar sekarang & nikmati promo menarik!</p>
         <!-- BUTTON -->
         <div class="popupBtnWrap">
-            <a href="https://anesuii.pages.dev/amp/anehin-au.html" class="popupBtn btnLogin">LOGIN</a>
-            <a href="https://anesuii.pages.dev/amp/anehin-au.html" class="popupBtn btnDaftar">DAFTAR</a>
+            <a href="https://kantong-chien.pages.dev/" class="popupBtn btnLogin">LOGIN</a>
+            <a href="https://kantong-chien.pages.dev/" class="popupBtn btnDaftar">DAFTAR</a>
         </div>
     
 
