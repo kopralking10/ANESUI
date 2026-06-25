@@ -1,4 +1,5 @@
 
+
   <!DOCTYPE html>
   <html lang="id-ID">
   <head>
@@ -12,9 +13,15 @@
   <meta name="title" content="SANTETTOTO | Platform Resmi Deposit Qris 5000 Tanpa Potongan 2026">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://surveyingpeople.com/reviews/">
-  <link rel="amphtml" href="https://anesuii.pages.dev/amp/bo-pien-yau.html">
-  <link rel="alternate" hreflang="id-id" href="https://anesuii.pages.dev/amp/bo-pien-yau.html"/>
-  <link rel="alternate" hreflang="id" href="https://anesuii.pages.dev/amp/bo-pien-yau.html"/>
+  <link rel="amphtml" href="https://cemungut-eak.pages.dev/">
+  <link rel="alternate" href="https://cemungut-eak.pages.dev/"> 
+  <link rel="alternate" href="https://cemungut-eak.pages.dev/" hreflang="id">
+  <link rel="alternate" href="https://cemungut-eak.pages.dev/" hreflang="en">
+  <link rel="alternate" href="https://cemungut-eak.pages.dev/" hreflang="en">
+  <link rel="alternate" href="https://cemungut-eak.pages.dev/" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://cemungut-eak.pages.dev/" />
+  <link rel="alternate" hreflang="en-US" href="https://cemungut-eak.pages.dev/" />
+  <link rel="alternate" hreflang="en-SG" href="https://cemungut-eak.pages.dev/" />
   <meta name="publisher" content="SANTETTOTO">
   <meta name="description" content="SANTETTOTO merupakan platform resmi deposit QRIS 5000 tanpa potongan 2026 yang menghadirkan akses cepat, layanan responsif, transaksi praktis, serta pengalaman pengguna yang nyaman setiap hari.">
   <meta name="keywords" content="SANTETTOTO, santettoto, santettoto resmi, santettoto slot, santettoto jitu, santettoto gacor, slot deposit qris, slot deposit 5k, situs slot deposit qris 5k, deposit qris 5k, situs deposit qris" />
@@ -4082,8 +4089,8 @@
           <!-- CTA Buttons - Gold Version (tanpa animasi slot) -->
           <div class="cta-gold-section">
               <div class="cta-buttons-gold">
-                  <a href="https://anesuii.pages.dev/amp/bo-pien-yau.html" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                  <a href="https://anesuii.pages.dev/amp/bo-pien-yau.html" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                  <a href="https://cemungut-eak.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                  <a href="https://cemungut-eak.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
               </div>
           </div>
       </div>
@@ -6655,17 +6662,17 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://anesuii.pages.dev/amp/bo-pien-yau.html">
+                    <a class="footer-category__link" href="https://cemungut-eak.pages.dev/">
                       Login Member
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://anesuii.pages.dev/amp/bo-pien-yau.html">
+                    <a class="footer-category__link" href="https://cemungut-eak.pages.dev/">
                       Daftar Akun Baru
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://anesuii.pages.dev/amp/bo-pien-yau.html">
+                    <a class="footer-category__link" href="https://cemungut-eak.pages.dev/">
                       Lupa Password
                     </a>
                   </li>
@@ -10534,9 +10541,9 @@
           <div class="slot">
               <img src="https://anesuii.pages.dev/banner/santettoto-deposit-qris-5000.png" alt="Popup Banner" class="popup-image" />
               <div class="clk-btn-sgp" style="font-size: 20px;">
-                  <a href="https://anesuii.pages.dev/amp/bo-pien-yau.html" target="_blank" rel="nofollow noreferrer"
+                  <a href="https://cemungut-eak.pages.dev/" target="_blank" rel="nofollow noreferrer"
                       class="login">LOGIN</a>
-                  <a href="https://anesuii.pages.dev/amp/bo-pien-yau.html" target="_blank" rel="nofollow noreferrer"
+                  <a href="https://cemungut-eak.pages.dev/" target="_blank" rel="nofollow noreferrer"
                       class="register">DAFTAR</a>
               </div>
               <div class="popup-footer">
