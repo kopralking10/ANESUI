@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html class="js" lang="id" style="--header-height: 146px;">
 <head>
@@ -323,14 +321,14 @@
     "name": "Kenapa para pemburu SLOT777 selalu kumpul di SANTETTOTO tiap malam?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Karena SANTETTOTO bukan sekadar tempat main biasa, melainkan "markas" berkumpulnya para pemain untuk saling memantau pergerakan RTP live secara real-time. Jam-jam malam adalah waktu krusial di mana algoritma game diperbarui, sehingga peluang untuk mendapatkan maxwin bareng komunitas menjadi jauh lebih tinggi di sini."
+      "text": "Karena SANTETTOTO bukan sekadar tempat main biasa, melainkan markas berkumpulnya para pemain untuk saling memantau pergerakan RTP live secara real-time. Jam-jam malam adalah waktu krusial di mana algoritma game diperbarui, sehingga peluang untuk mendapatkan maxwin bareng komunitas menjadi jauh lebih tinggi di sini."
     }
   },{
     "@type": "Question",
     "name": "Bagaimana cara melihat bocoran pola gampang maxwin hari ini?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Lu tidak perlu aktivasi tambahan atau membayar VIP. Cukup masuk ke menu utama setelah login, dashboard kami langsung menyajikan data statistik game yang sedang "wangi", lengkap dengan persentase win-rate, grafik fluktuasi, dan kombinasi pola spin yang sedang sering tembus."
+      "text": "Lu tidak perlu aktivasi tambahan atau membayar VIP. Cukup masuk ke menu utama setelah login, dashboard kami langsung menyajikan data statistik game yang sedang wangi, lengkap dengan persentase win-rate, grafik fluktuasi, dan kombinasi pola spin yang sedang sering tembus."
     }
   },{
     "@type": "Question",
@@ -755,8 +753,7 @@
       --color-base-solid-button-labels: 255, 255, 255;
       --color-base-outline-button-labels: 18, 18, 18;
       --color-base-accent-1: 0, 113, 227;
-      --color-base-accent-2: 51, 79, 180;
-      --payment-terms-background-color: #FFFFFF;
+      --color-base-accent-2: 51, 79, 180;--payment-terms-background-color: #FFFFFF;
       --gradient-base-background-1: #FFFFFF;
       --gradient-base-background-2: #FFFFFF;
       --gradient-base-accent-1: #1aafaf;
@@ -1386,7 +1383,7 @@
           const fw = document.createElement('span');
           fw.className = 'firework';
           const x = 10 + Math.random() * 80; // antara 10% - 90%
-          const y = 10 + Math.random() * 30; // di area atas layar
+          const y = 10 + Math.random() * 30; // di area ataslayar
           fw.style.left = x + '%';
           fw.style.top = y + '%';
           wrap.appendChild(fw);
@@ -1867,8 +1864,7 @@
                     </summary>
                     <ul id="HeaderMenu-MenuList-1" class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup" tabindex="-1"></ul>
                   </details>
-                </header-menu>
-              </li>
+                </header-menu></li>
               <li>
                 <header-menu>
                   <details id="Details-HeaderMenu-2" class="mainMenuUpdate2">
@@ -2902,7 +2898,7 @@
                         }
                       </script>
                     </div>
-                    <input type="hidden" name="product-id" value="7986665160884"><input type="hidden" name="section-id" value="template--17605519376564__main">
+                    <inputtype="hidden" name="product-id" value="7986665160884"><input type="hidden" name="section-id" value="template--17605519376564__main">
                   </form>
                 </product-form>
               </div>
@@ -3546,8 +3542,7 @@
 
         #shopify-section-template--17605519376564__main .popup_round_border {
           display: none;
-        }
-      </style>
+        }</style>
     </section>
     <div id="shopify-section-template--17605519376564__productMarketingContent" class="shopify-section">
       <link href="https://www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887" rel="stylesheet" type="text/css" media="all">
@@ -3804,7 +3799,7 @@
               padding: 22px 25px
             }
 
-            .faq-question::after {
+            .faq-question::after{
               width: 35px;
               height: 35px;
               font-size: 28px
@@ -4072,14 +4067,14 @@
   <div class="faq-item">
     <h3 class="faq-question">Kenapa para pemburu SLOT777 selalu kumpul di SANTETTOTO tiap malam?</h3>
     <div class="faq-answer">
-      Karena SANTETTOTO bukan sekadar tempat main biasa, melainkan "markas" berkumpulnya para pemain untuk saling memantau pergerakan RTP live secara real-time. Jam-jam malam adalah waktu krusial di mana algoritma game diperbarui, sehingga peluang untuk mendapatkan maxwin bareng komunitas menjadi jauh lebih tinggi di sini.
+      Karena SANTETTOTO bukan sekadar tempat main biasa, melainkan markas berkumpulnya para pemain untuk saling memantau pergerakan RTP live secara real-time. Jam-jam malam adalah waktu krusial di mana algoritma game diperbarui, sehingga peluang untuk mendapatkan maxwin bareng komunitas menjadi jauh lebih tinggi di sini.
     </div>
   </div>
 
   <div class="faq-item">
     <h3 class="faq-question">Bagaimana cara melihat bocoran pola gampang maxwin hari ini?</h3>
     <div class="faq-answer">
-      Lu tidak perlu aktivasi tambahan atau membayar VIP. Cukup masuk ke menu utama setelah login, dashboard kami langsung menyajikan data statistik game yang sedang "wangi", lengkap dengan persentase win-rate, grafik fluktuasi, dan kombinasi pola spin yang sedang sering tembus.
+      Lu tidak perlu aktivasi tambahan atau membayar VIP. Cukup masuk ke menu utama setelah login, dashboard kami langsung menyajikan data statistik game yang sedang wangi, lengkap dengan persentase win-rate, grafik fluktuasi, dan kombinasi pola spin yang sedang sering tembus.
     </div>
   </div>
 
@@ -4262,9 +4257,7 @@
               });
             }
           }
-          customElements.define('product-recommendations', ProductRecommendations);
-
-          function call_gafunction() {
+          customElements.define('product-recommendations', ProductRecommendations);function call_gafunction() {
             var mpn_handle = $('#mpn_handle').val();
             var frequentProducts_ga = [];
             var productList = 'Shopify Rec :: ' + mpn_handle;
@@ -4419,8 +4412,7 @@
           </div>
           <div class="accordion2 ">
             <span class="headerBlu footer-block__heading">Services</span>
-            <span class="caretfooter">
-              <svg aria-hidden="true" focusable="false" role="presentation" class="footercareticon icon icon-caret " viewBox="0 0 10 6">
+            <span class="caretfooter"><svg aria-hidden="true" focusable="false" role="presentation" class="footercareticon icon icon-caret " viewBox="0 0 10 6">
                 <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor" class="footercareticon">
                 </path>
               </svg>
@@ -4631,8 +4623,7 @@
             <p class="footer-block__heading inline-richtext">About iStudio</p>
             <ul class="footer-block__details-content list-unstyled">
               <li>
-                <a href="/pages/about-us" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link"> About Us </a>
-              </li>
+                <a href="/pages/about-us" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link"> About Us </a></li>
               <li>
                 <a href="/pages/store-locator" target="_blank" rel="nofollow noopener noreferrer" class="footer_content_list link link--text list-menu__item list-menu__item--link"> Find an iStudio near you </a>
               </li>
@@ -5564,8 +5555,7 @@
                           <div class="rte">
                             <p>Enjoy complimentary delivery for orders with a minimum spend of $250.</p>
                           </div>
-                        </div>
-                      </div>
+                        </div></div>
                     </li>
                   </ul>
                   <div class="slider-buttons no-js-hidden medium-hide">
