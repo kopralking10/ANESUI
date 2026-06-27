@@ -375,9 +375,9 @@
     
         background: linear-gradient(
             135deg,
-            rgba(255,255,255,0) 0%,
-            rgba(255,255,255,0.28) 25%,
-            rgba(255,255,255,0) 50%
+            rgba(255, 255, 255, 0) 0%,
+            rgba(255, 255, 255, 0.28) 25%,
+            rgba(255, 255, 255, 0) 50%
         );
     
         transform: translateX(-100%) translateY(-100%) rotate(45deg);
@@ -395,24 +395,24 @@
     .login-button {
     
         text-shadow:
-          0 1px 1px rgba(255,255,255,0.25);
+          0 1px 1px rgba(255, 255, 255, 0.25);
     
         border-radius: 12px;
     
-        border: 2px solid #d4af37;
+        border: 2px solid #7837d4;
     
         box-shadow:
-            0 4px 0 #8c6b2f,
+            0 4px 0 #462f8c,
             0 8px 15px rgba(0,0,0,0.45),
-            inset 0 1px 2px rgba(255,255,255,0.35);
+            inset 0 1px 2px rgba(255, 255, 255, 0.35);
     
         background: linear-gradient(180deg,
-            #fff4b0 0%,
-            #ffd700 25%,
-            #d4af37 45%,
-            #8c6b2f 65%,
-            #d4af37 85%,
-            #fff2a6 100%
+            #b0b0ff 0%,
+            #5100ff 25%,
+            #373fd4 45%,
+            #592f8c 65%,
+            #4137d4 85%,
+            #b8a6ff 100%
         );
     
         color: #111;
@@ -429,9 +429,9 @@
         height: 30%;
     
         background: linear-gradient(180deg,
-            rgba(255,255,255,0.6) 0%,
-            rgba(255,255,255,0.18) 50%,
-            rgba(255,255,255,0) 100%
+            rgba(255, 255, 255, 0.6) 0%,
+            rgba(255, 255, 255, 0.18) 50%,
+            rgba(255, 255, 255, 0) 100%
         );
     
         border-radius: 10px 10px 0 0;
@@ -442,17 +442,17 @@
         background: linear-gradient(180deg,
             #000000 0%,
             #1a1a1a 40%,
-            #ffd700 80%,
-            #fff4b0 100%
+            #3300ff 80%,
+            #beb0ff 100%
         );
     
-        border-color: #ffd700;
+        border-color: #1900ff;
     
         box-shadow:
-            0 6px 0 #8c6b2f,
+            0 6px 0 #2f3f8c,
             0 12px 20px rgba(0,0,0,0.6),
-            0 0 20px rgba(255,215,0,0.45),
-            inset 0 1px 3px rgba(255,255,255,0.4);
+            0 0 20px rgba(0, 21, 255, 0.45),
+            inset 0 1px 3px rgba(255, 255, 255, 0.4);
     
         transform: translateY(-2px);
         color: #fff;
@@ -462,8 +462,8 @@
         transform: translateY(2px);
     
         box-shadow:
-            0 2px 0 #8c6b2f,
-            0 5px 12px rgba(0,0,0,0.3);
+            0 2px 0 #312f8c,
+            0 5px 12px rgba(0, 0, 0, 0.3);
     }
     
     /* REGISTER */
@@ -471,25 +471,25 @@
     .register-button {
     
         text-shadow:
-          0 1px 1px rgba(255,255,255,0.18);
+          0 1px 1px rgba(255, 255, 255, 0.18);
     
         border-radius: 12px;
     
-        border: 2px solid #d4af37;
+        border: 2px solid #3741d4;
     
         box-shadow:
-            0 4px 0 #8c6b2f,
+            0 4px 0 #3d2f8c,
             0 8px 15px rgba(0,0,0,0.55),
-            inset 0 1px 2px rgba(255,255,255,0.15);
+            inset 0 1px 2px rgba(255, 255, 255, 0.15);
     
         background: linear-gradient(180deg,
             #000000 0%,
             #0d0d0d 30%,
             #1a1a1a 65%,
-            #8c6b2f 100%
+            #382f8c 100%
         );
     
-        color: #ffd700;
+        color: #4000ff;
         position: relative;
     }
     
@@ -503,8 +503,8 @@
         height: 30%;
     
         background: linear-gradient(180deg,
-            rgba(255,255,255,0.25) 0%,
-            rgba(255,255,255,0.08) 50%,
+            rgba(255, 255, 255, 0.25) 0%,
+            rgba(255, 255, 255, 0.08) 50%,
             rgba(255,255,255,0) 100%
         );
     
@@ -516,17 +516,17 @@
         background: linear-gradient(180deg,
             #1a1a1a 0%,
             #000000 35%,
-            #ffd700 80%,
-            #fff4b0 100%
+            #4800ff 80%,
+            #b3b0ff 100%
         );
     
-        border-color: #ffd700;
+        border-color: #0800ff;
     
         box-shadow:
-            0 6px 0 #8c6b2f,
+            0 6px 0 #402f8c,
             0 12px 20px rgba(0,0,0,0.65),
-            0 0 20px rgba(255,215,0,0.45),
-            inset 0 1px 3px rgba(255,255,255,0.25);
+            0 0 20px rgba(47, 0, 255, 0.45),
+            inset 0 1px 3px rgba(255, 255, 255, 0.25);
     
         transform: translateY(-2px);
         color: #fff;
@@ -536,7 +536,7 @@
         transform: translateY(2px);
     
         box-shadow:
-            0 2px 0 #8c6b2f,
+            0 2px 0 #432f8c,
             0 5px 12px rgba(0,0,0,0.3);
     }
     
@@ -6435,15 +6435,15 @@
               #000000 0%,
               #0d0d0d 35%,
               #1a1a1a 70%,
-              #8c6b2f 100%
+              #562f8c 100%
             );
         
             backdrop-filter: blur(10px);
             border-radius: 20px;
-            border: 2px solid #d4af37;
+            border: 2px solid #7337d4;
         
             box-shadow:
-              0 0 25px rgba(255,215,0,0.35),
+              0 0 25px rgba(85, 0, 255, 0.35),
               inset 0 1px 2px rgba(255,255,255,0.12);
         
             z-index: 999;
@@ -6464,22 +6464,22 @@
             color: #111;
         
             background: linear-gradient(180deg,
-              #fff4b0 0%,
-              #ffd700 25%,
-              #d4af37 45%,
-              #8c6b2f 65%,
-              #d4af37 85%,
-              #fff2a6 100%
+              #beb0ff 0%,
+              #0d00ff 25%,
+              #3c37d4 45%,
+              #3b2f8c 65%,
+              #5437d4 85%,
+              #b3a6ff 100%
             );
         
             border-radius: 32px;
-            border: 1px solid #d4af37;
+            border: 1px solid #6637d4;
             cursor: pointer;
             transition: all 0.3s ease;
         
             box-shadow:
               0 4px 12px rgba(0,0,0,0.6),
-              0 0 14px rgba(255,215,0,0.3),
+              0 0 14px rgba(47, 0, 255, 0.3),
               inset 0 1px 2px rgba(255,255,255,0.3);
         
             animation: floatUpDown 3s ease-in-out infinite;
@@ -6503,7 +6503,7 @@
             background: linear-gradient(
               120deg,
               transparent,
-              rgba(255,255,255,0.4),
+              rgba(255, 255, 255, 0.4),
               transparent
             );
         
@@ -6520,7 +6520,7 @@
             width: 18px;
             height: 18px;
             flex-shrink: 0;
-            filter: drop-shadow(0 0 6px rgba(255,215,0,0.6));
+            filter: drop-shadow(0 0 6px rgba(89, 0, 255, 0.6));
         }
         
         /* FLOAT DELAY */
@@ -6542,15 +6542,15 @@
             background: linear-gradient(180deg,
               #000000 0%,
               #1a1a1a 40%,
-              #ffd700 80%,
-              #fff4b0 100%
+              #3700ff 80%,
+              #c0b0ff 100%
             );
         
             color: #fff;
         
             box-shadow:
-              0 0 20px rgba(255,215,0,0.55),
-              0 0 35px rgba(255,215,0,0.35),
+              0 0 20px rgba(43, 0, 255, 0.55),
+              0 0 35px rgba(102, 0, 255, 0.35),
               0 8px 20px rgba(0,0,0,0.8);
         
             transform: translateY(-6px) scale(1.05);
@@ -6561,15 +6561,15 @@
             background: linear-gradient(180deg,
               #000000 0%,
               #1a1a1a 45%,
-              #8c6b2f 100%
+              #592f8c 100%
             );
         
-            color: #ffd700;
-            border-color: #ffd700;
+            color: #4c00ff;
+            border-color: #4800ff;
         
             box-shadow:
-              0 0 18px rgba(255,215,0,0.6),
-              0 0 35px rgba(255,215,0,0.35);
+              0 0 18px rgba(85, 0, 255, 0.6),
+              0 0 35px rgba(98, 0, 255, 0.35);
         }
         
         /* FLOAT ANIMATION */
