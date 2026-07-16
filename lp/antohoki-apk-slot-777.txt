@@ -14,9 +14,9 @@
 <meta name="title" content="ANTOHOKI | APK Slot Online 777 Resmi Berkolaborasi Dengan Slot777">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://casitasdelasierra.com/">
-<link rel="amphtml" href="https://casitasdelasierra.antomart.shop/">
-<link rel="alternate" hreflang="id-id" href="https://casitasdelasierra.antomart.shop/"/>
-<link rel="alternate" href="https://casitasdelasierra.antomart.shop/"/>
+<link rel="amphtml" href="https://anebosui-e.pages.dev/">
+<link rel="alternate" hreflang="id-id" href="https://anebosui-e.pages.dev/"/>
+<link rel="alternate" href="https://anebosui-e.pages.dev/"/>
 <meta name="publisher" content="ANTOHOKI">
 <meta name="description" content="ANTOHOKI menyediakan APK Slot Online 777 resmi dengan akses cepat, sistem stabil, dan berbagai pilihan permainan populer untuk pengalaman bermain yang nyaman dan praktis.">
 <meta name="keywords" content="ANTOHOKI, slot, slot resmi, slot terpercaya, apk slot, slot apk, slot777, slot 777, slot77" />
@@ -1489,7 +1489,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="SLOT GACOR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT GACOR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://casitasdelasierra.antomart.shop/" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="SLOT GACOR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="SLOT GACOR. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://anebosui-e.pages.dev/" role="menuitem" target="_blank">
             Daftar ANTOHOKI
            </a>
           </div>
@@ -1497,10 +1497,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://casitasdelasierra.antomart.shop/" href="https://casitasdelasierra.antomart.shop/" role="menuitem">
+         <a data-linkinfo="https://anebosui-e.pages.dev/" href="https://anebosui-e.pages.dev/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://casitasdelasierra.antomart.shop/" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://anebosui-e.pages.dev/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1573,11 +1573,11 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://casitasdelasierra.antomart.shop/"
+              href="https://anebosui-e.pages.dev/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://casitasdelasierra.antomart.shop/'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://anebosui-e.pages.dev/'; return false;">
               Login/Sign-Up
             </a>
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.samsung.com/id/rewards/" role="menuitem">
@@ -2176,10 +2176,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://casitasdelasierra.antomart.shop/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://anebosui-e.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://casitasdelasierra.antomart.shop/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://anebosui-e.pages.dev/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -3965,8 +3965,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi ANTOHOKI) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://casitasdelasierra.antomart.shop/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">Download Apk Slot Versi 20.1</a>
-                <a href="https://casitasdelasierra.antomart.shop/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">Download Apk Slot Versi Terbaru</a>
+                <a href="https://anebosui-e.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">Download Apk Slot Versi 20.1</a>
+                <a href="https://anebosui-e.pages.dev/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">Download Apk Slot Versi Terbaru</a>
             </div>
         </div>
     </div>
@@ -4114,7 +4114,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://casitasdelasierra.antomart.shop/" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://anebosui-e.pages.dev/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6399,41 +6399,41 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI                  </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Shop
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Care
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI AI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Smart
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Install
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Explore
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     ANTOHOKI Design
                   </a>
                 </li>
@@ -6459,37 +6459,37 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Panduan Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Panduan Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Program Referral
                   </a>
                 </li>
@@ -6515,37 +6515,37 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6571,32 +6571,32 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Lupa Password
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Panduan Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Program VIP
                   </a>
                 </li>
@@ -6623,22 +6623,22 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Panduan Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Panduan Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6661,20 +6661,20 @@ font-size:24px;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Tentang ANTOHOKI                  </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Kenapa Pilih ANTOHOKI                  </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://casitasdelasierra.antomart.shop/">
+                  <a class="footer-category__link" href="https://anebosui-e.pages.dev/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -10459,9 +10459,9 @@ font-size:24px;
             <img src="https://anesuii.pages.dev/banner/antohoki-apk-slot-online-777.png" alt="Popup Banner" class="popup-image" />
 
             <div class="popx-btn" style="font-size: 20px;">
-                <a href="https://casitasdelasierra.antomart.shop/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://anebosui-e.pages.dev/" target="_blank" rel="nofollow noreferrer"
                     class="login">LOGIN</a>
-                <a href="https://casitasdelasierra.antomart.shop/" target="_blank" rel="nofollow noreferrer"
+                <a href="https://anebosui-e.pages.dev/" target="_blank" rel="nofollow noreferrer"
                     class="register">DAFTAR</a>
             </div>
 
